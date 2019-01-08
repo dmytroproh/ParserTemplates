@@ -48,7 +48,7 @@
  [],
  False,
  False,
- 1546977737,
+ 1546977858,
  [('run.exe',
    'C:\\Users\\dimka\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
