@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\dimka\\Documents\\GitHub\\EVE_Robotics_Scraper_X'],
+             pathex=['C:\\Program Files (x86)\\Jenkins\\workspace\\testing'],
              binaries=[],
              datas=[],
              hiddenimports=[],
