@@ -20,7 +20,7 @@ def main():
     form.show()
     splash.finish(form)
     exit(application.exec_())
-
+#lol
 
 if __name__ == '__main__':
     try:
